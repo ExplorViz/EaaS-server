@@ -40,7 +40,7 @@
 
         <!-- Dependencies -->
         <!-- Version of Spring Boot is specified by parent above -->
-        <vaadin.version>14.3.1</vaadin.version>
+        <vaadin.version>14.6.2</vaadin.version>
         <docker-java.version>3.2.5</docker-java.version>
 
         <!-- Inspection tools -->
